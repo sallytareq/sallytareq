@@ -1,4 +1,4 @@
-[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=sallytareq&show_icons=true&theme=tokyonight&include_all_commits=true&hide=issues&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br/>
+[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=sallytareq&show_icons=true&theme=tokyonight&include_all_commits=true&hide=issues&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sallytareq&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 -----
 ![](https://img.shields.io/badge/Developer-Node-informational?style=flat&logo=node.jslogoColor=white&color=025800)
